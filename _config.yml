@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "About Me"
+  name             : #"About Me"
   avatar           : "profile.png"
   bio              : "Librarian + Archivist"
   location         : "Los Angeles, CA"
